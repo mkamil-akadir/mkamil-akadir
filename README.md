@@ -45,6 +45,10 @@ Here are some of the projects I'm currently working on, which showcase my skills
 - Excel, SQL Server
 - Pandas, NumPy
 
+### Power Platform
+- Power BI (Business Intelligence & Reporting)
+- Power Apps (Low-code app development)
+- Power Automate (Workflow automation)
 
 ## 🌱 What I'm Currently Learning
 
